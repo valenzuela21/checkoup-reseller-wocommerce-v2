@@ -1,6 +1,6 @@
-# Vue.js WordPress Master Standar Plugin
+# Goole maps checkop form wocoommerce v2 reseller
 
-A WordPress [Vue.js](https://vuejs.org/) starter plugin improved standard vue.js 😬
+Form google maps checkup payment reseller woocomerce v2 wich Vue.js and Vuex 😬
 
 ## 📦 What it ships with?
 
